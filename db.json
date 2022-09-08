@@ -1,5 +1,5 @@
 {
   "customers": [
-          {"id":1,"email":"tester100@nicebank.com","phone":"322-442-0651","name":"Tester10 VV","cc_balance":"23.13","due_date":"6/27/2022", "acc_number": 2398, "acc_pwd": "0000"}
+          {"id":1,"email":"tester100@nicebank.com","phone":"322-442-0651","name":"Tester10 VV","cc_balance":"23.13","due_date":"6/27/2022", "acc_number": 2398, "acc_pwd": "1234"}
     ]
 }
