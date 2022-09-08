@@ -1,14 +1,1 @@
-{
-   "customers":[
-      {
-         "id":1,
-         "email":"tester10@nice.com",
-         "phone":"322-442-0651",
-         "name":"Starlin",
-         "cc_balance":"23.13",
-         "due_date":"6/27/2022",
-         "acc_number":"123456789",
-         "acc_pwd":"0000"
-      }
-   ]
-
+{"customers":[{"id":1,"email":"tester10@nice.com","phone":"322-442-0651","name":"Starlin","cc_balance":"23.13","due_date":"6/27/2022","acc_number":"123456789","acc_pwd":"0000"}]}
