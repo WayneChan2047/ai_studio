@@ -1,6 +1,6 @@
 {
   "customers": [
-          {"id":1,"email":"tester100@nicebank.com","phone":"322-442-0651","name":"Tester10 VV","cc_balance":"23.13","due_date":"6/27/2022", "acc_number": 2398, "acc_pwd": 1234},
-          {"id":2,"email":"tester101@nicebank.com","phone":"322-442-0666","name":"Tester101 VV","cc_balance":"23.13","due_date":"6/27/2022", "acc_number": 2310, "acc_pwd": 1234}
+          {"id":1,"email":"tester100@nicebank.com","phone":"322-442-0651","name":"Tester10 VV","cc_balance":"23.13","due_date":"6/27/2022", "acc_number": 552343842398, "acc_pwd": 1234},
+          {"id":2,"email":"tester101@nicebank.com","phone":"322-442-0666","name":"Tester101 VV","cc_balance":"23.13","due_date":"6/27/2022", "acc_number": 552343842310, "acc_pwd": 1234}
   ]
 }
